@@ -28,3 +28,7 @@ html {
 .diamond {
     transform: rotate(45deg);
 }
+
+.test {
+    background: black;
+}

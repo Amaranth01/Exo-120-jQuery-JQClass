@@ -1,5 +1,5 @@
 # Classe ou pas classe ?
-Créer un matrice (voir matrice.jpg) de formes à rendre cliquable
+Créer une matrice (voir matrice.jpg) de formes à rendre cliquable
 
 # Objectifs Pédagogiques
 * Maitriser les fonctions class sur jQuery (.addClass, .removeClass, .toggleClass, .hasClass)
